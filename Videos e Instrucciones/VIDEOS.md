@@ -3,7 +3,7 @@
 Si no deseas **descargar e importar todo el proyecto** del videojuego, aquí puedes encontrar **videos que muestran su funcionamiento completo**.
 
 Estos videos te permitirán:
-- 🎮 Ver cómo se juega Banana Runner
+- 🎮 Ver cómo se juega **Banana Runner**
 - 🍌 Conocer sus mecánicas principales
 - 🖥️ Comprender la experiencia de usuario sin necesidad de instalar nada
 
